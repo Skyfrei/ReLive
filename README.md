@@ -1,3 +1,3 @@
-# ReLive is a game engine using Vulkan api
+# Re:Live is a game engine using Vulkan api
 
 
